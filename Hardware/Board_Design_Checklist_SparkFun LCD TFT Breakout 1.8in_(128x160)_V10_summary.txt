@@ -1,0 +1,18 @@
+1) Are the part libraries consistent with eagle github repo? [NO]
+comment: No. I haven't added the display to the libraries because I'm not sure where to put it, besides the part on the board is an FPC connector, not the display itself. I did add the FPC connector under the 40 position connector in the connectors library. Also there is one footprint that is just a custom solder position for the user so I'm not sure if that goes in the library
+
+2) Have you verified that the BOM in Sparkle is accurate (also checking for PROD_ID, NAME, VALUE, PREFIX)? [NO]
+comment: No Sparkle product yet... 
+
+3) Do V-Scored edges have a 50 mil border free of pads and parts (to prevent cracking on separation)? [NO]
+comment: Nearly... but I want the FPC connector to be right up at the edge of one vscore so that one violates this rule
+
+4) Are all QFN components with 6 or more leads 75 percent pasted on lead pads? (May be contended depending on performance) [NO]
+comment: They're closer to 80-90% pasted
+
+5) Is there a correct version number in the copper (aligned properly with the edge of the PCB)? [NO]
+comment: I couldn't fit it right on the edge, but it's close ish
+
+6) Are all PTHs (aka connectors) clearly labeled with their purpose on both sides of the board? [NO]
+comment: No, bottom side is unlabeled due to space constraints
+
