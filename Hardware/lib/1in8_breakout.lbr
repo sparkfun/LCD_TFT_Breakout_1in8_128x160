@@ -6,7 +6,7 @@
 <setting alwaysvectorfont="no"/>
 <setting verticaltext="up"/>
 </settings>
-<grid distance="0.05" unitdist="inch" unit="inch" style="lines" multiple="1" display="yes" altdistance="0.005" altunitdist="inch" altunit="inch"/>
+<grid distance="0.1" unitdist="inch" unit="inch" style="lines" multiple="1" display="no" altdistance="0.01" altunitdist="inch" altunit="inch"/>
 <layers>
 <layer number="1" name="Top" color="4" fill="1" visible="yes" active="yes"/>
 <layer number="2" name="Route2" color="16" fill="1" visible="no" active="yes"/>
@@ -226,8 +226,6 @@ CONN-14082</description>
 <smd name="P$38" x="8.75" y="0.6" dx="0.3" dy="1.2" layer="1"/>
 <smd name="P$39" x="9.25" y="0.6" dx="0.3" dy="1.2" layer="1"/>
 <smd name="P$40" x="9.75" y="0.6" dx="0.3" dy="1.2" layer="1"/>
-<smd name="P$41" x="-11.4" y="-2.55" dx="1.8" dy="2" layer="1"/>
-<smd name="P$42" x="11.4" y="-2.55" dx="1.8" dy="2" layer="1"/>
 <wire x1="-11.75" y1="0.4" x2="11.75" y2="0.4" width="0.254" layer="51"/>
 <wire x1="11.75" y1="0.4" x2="11.75" y2="-4.5" width="0.254" layer="51"/>
 <wire x1="11.75" y1="-4.5" x2="-11.75" y2="-4.5" width="0.254" layer="51"/>
@@ -293,6 +291,10 @@ CONN-14082</description>
 <wire x1="-11.938" y1="-4.699" x2="-11.938" y2="-4.064" width="0.2032" layer="21"/>
 <wire x1="-11.938" y1="-4.699" x2="-11.303" y2="-4.699" width="0.2032" layer="21"/>
 <circle x="-11.049" y="0.889" radius="0.1016" width="0.2032" layer="21"/>
+<rectangle x1="-12.4" y1="-3.65" x2="-10.4" y2="-1.45" layer="29"/>
+<rectangle x1="10.4" y1="-3.65" x2="12.4" y2="-1.45" layer="29"/>
+<rectangle x1="10.5" y1="-3.55" x2="12.3" y2="-1.55" layer="31"/>
+<rectangle x1="-12.3" y1="-3.55" x2="-10.5" y2="-1.55" layer="31"/>
 </package>
 <package name="FPC05024-42***">
 <description>SparkFun SKU CONN-14195</description>
@@ -1183,7 +1185,7 @@ part number 2062-2P from STA</description>
 <connect gate="G$1" pin="!RST" pad="P$37"/>
 <connect gate="G$1" pin="DB0/SDI" pad="P$16"/>
 <connect gate="G$1" pin="DC/SCL" pad="P$13"/>
-<connect gate="G$1" pin="GND" pad="P$1 P$5 P$17 P$18 P$19 P$20 P$21 P$22 P$23 P$24 P$25 P$26 P$27 P$28 P$29 P$30 P$31 P$32 P$33 P$38" route="any"/>
+<connect gate="G$1" pin="GND" pad="P$1 P$6 P$17 P$18 P$19 P$20 P$21 P$22 P$23 P$24 P$25 P$26 P$27 P$28 P$29 P$30 P$31 P$32 P$33 P$38" route="any"/>
 <connect gate="G$1" pin="IM0" pad="P$7"/>
 <connect gate="G$1" pin="IM1" pad="P$8"/>
 <connect gate="G$1" pin="IM2" pad="P$9"/>
