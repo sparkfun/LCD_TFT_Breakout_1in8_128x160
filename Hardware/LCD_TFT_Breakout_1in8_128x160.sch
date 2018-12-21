@@ -18431,6 +18431,7 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <text x="129.54" y="121.92" size="1.778" layer="97">5.5V</text>
 <text x="167.64" y="119.38" size="1.778" layer="97">Cut JP1 to 
 disable PWR led</text>
+<text x="106.68" y="160.02" size="1.778" layer="97">VIN 3.3V at minimum</text>
 </plain>
 <instances>
 <instance part="FRAME1" gate="G$1" x="0" y="0"/>
