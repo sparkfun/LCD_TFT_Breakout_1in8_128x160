@@ -6960,7 +6960,7 @@ design rules under a new name.</description>
 <attribute name="NAME" x="4.572" y="20.193" size="0.6096" layer="25" font="vector" ratio="20" align="bottom-center"/>
 <attribute name="VALUE" x="4.572" y="17.907" size="0.6096" layer="27" font="vector" ratio="20" align="top-center"/>
 </element>
-<element name="U$18" library="cs" package="PWR4" value="" x="2.032" y="19.304" smashed="yes" rot="R90"/>
+<element name="U$18" library="cs" package="PWR4" value="" x="2.032" y="19.05" smashed="yes" rot="R90"/>
 <element name="U$33" library="SparkFun-Displays" package="KWH018ST14-F01_HOLES" value="EXTERNAL_DISP-KWH018ST14-F01" x="1.905" y="53.34" rot="MR0">
 <attribute name="PROD_ID" value="LCD-14196" x="1.905" y="53.34" size="1.778" layer="28" font="vector" ratio="15" rot="MR0" display="off"/>
 </element>
@@ -7076,12 +7076,12 @@ design rules under a new name.</description>
 <via x="22.987" y="5.588" extent="1-16" drill="0.381"/>
 <wire x1="27.8" y1="20.101" x2="27.813" y2="20.088" width="0.2032" layer="1"/>
 <via x="1.27" y="24.384" extent="1-16" drill="0.381"/>
-<via x="1.27" y="19.304" extent="1-16" drill="0.381"/>
+<via x="1.143" y="18.669" extent="1-16" drill="0.381"/>
 <via x="1.27" y="15.24" extent="1-16" drill="0.381"/>
-<via x="1.27" y="10.16" extent="1-16" drill="0.381"/>
+<via x="1.016" y="9.398" extent="1-16" drill="0.381"/>
 <via x="6.35" y="5.08" extent="1-16" drill="0.381"/>
 <via x="8.255" y="8.382" extent="1-16" drill="0.381"/>
-<via x="34.29" y="21.844" extent="1-16" drill="0.381"/>
+<via x="35.052" y="23.241" extent="1-16" drill="0.381"/>
 <via x="36.83" y="24.384" extent="1-16" drill="0.381"/>
 <via x="36.83" y="19.304" extent="1-16" drill="0.381"/>
 <via x="34.29" y="17.78" extent="1-16" drill="0.381"/>
