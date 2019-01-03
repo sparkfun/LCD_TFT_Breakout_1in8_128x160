@@ -18347,7 +18347,7 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <parts>
 <part name="FRAME1" library="SparkFun-Aesthetics" deviceset="FRAME-LETTER" device="">
 <attribute name="DESIGNER" value="Owen Lyke"/>
-<attribute name="REV" value="v03"/>
+<attribute name="REV" value="v10"/>
 </part>
 <part name="U2" library="SparkFun-IC-Comms" deviceset="TXB0108" device="" value="TXB0108DQSR"/>
 <part name="GND9" library="SparkFun-PowerSymbols" deviceset="GND" device=""/>

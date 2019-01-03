@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE eagle SYSTEM "eagle.dtd">
-<eagle version="9.2.0">
+<eagle version="9.1.3">
 <drawing>
 <settings>
-<setting alwaysvectorfont="no"/>
+<setting alwaysvectorfont="yes"/>
 <setting verticaltext="up"/>
 </settings>
 <grid distance="0.05" unitdist="inch" unit="inch" style="lines" multiple="1" display="yes" altdistance="0.005" altunitdist="inch" altunit="inch"/>
@@ -39,7 +39,7 @@
 <layer number="43" name="vRestrict" color="2" fill="10" visible="no" active="yes"/>
 <layer number="44" name="Drills" color="7" fill="1" visible="no" active="yes"/>
 <layer number="45" name="Holes" color="7" fill="1" visible="yes" active="yes"/>
-<layer number="46" name="Milling" color="3" fill="1" visible="yes" active="yes"/>
+<layer number="46" name="Milling" color="3" fill="1" visible="no" active="yes"/>
 <layer number="47" name="Measures" color="7" fill="1" visible="no" active="yes"/>
 <layer number="48" name="Document" color="7" fill="1" visible="no" active="yes"/>
 <layer number="49" name="Reference" color="7" fill="1" visible="no" active="yes"/>
@@ -164,7 +164,7 @@
 <text x="-21.59" y="-58.928" size="1.778" layer="51" font="vector" ratio="15">When panelizing please extend the mid-board v-score lines across
  the panel without changing location. This is a break-away option
  for the user</text>
-<text x="0.381" y="5.461" size="1.4732" layer="16" font="vector" ratio="15" rot="SMR90">v03</text>
+<text x="0.508" y="4.953" size="1.4732" layer="16" font="vector" ratio="15" rot="SMR90">v10</text>
 <text x="27.94" y="-23.241" size="1.778" layer="51" font="vector" ratio="15">Owen Lyke</text>
 <wire x1="6.223" y1="17.399" x2="0.381" y2="17.399" width="0.2032" layer="21"/>
 <wire x1="0.381" y1="17.399" x2="0.381" y2="6.223" width="0.2032" layer="21"/>
@@ -6926,7 +6926,7 @@ design rules under a new name.</description>
 <elements>
 <element name="FRAME1" library="SparkFun-Aesthetics" package="CREATIVE_COMMONS" value="FRAME-LETTER" x="0" y="-23.114">
 <attribute name="DESIGNER" value="Owen Lyke" x="0" y="-23.114" size="1.778" layer="27" display="off"/>
-<attribute name="REV" value="v03" x="0" y="-23.114" size="1.778" layer="27" display="off"/>
+<attribute name="REV" value="v10" x="0" y="-23.114" size="1.778" layer="27" display="off"/>
 </element>
 <element name="U2" library="SparkFun-IC-Comms" package="UFDFN-20" value="TXB0108DQSR" x="23.114" y="8.636" rot="R180">
 <attribute name="NAME" x="25.146" y="7.036" size="0.6096" layer="25" font="vector" ratio="20" rot="R180"/>
