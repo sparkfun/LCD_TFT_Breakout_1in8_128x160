@@ -1,7 +1,7 @@
 SparkFun LCD TFT Breakout 1.8" 128x160
 ========================================
 
-![LCD TFT Breakout 1.8" 128x160](URL for picture of part)
+[LCD TFT Breakout 1.8" 128x160](URL for picture of part)
 
 [*LCD TFT Breakout 1.8" 128x160 (LCD-15143)*](https://www.sparkfun.com/products/15143)
 
@@ -11,12 +11,8 @@ Repository Contents
 -------------------
 
 * **/Documentation** - Data sheets, additional product information
-* **/Enclosure** - Enclosure files 
-* **/Firmware** - Example code 
 * **/Hardware** - Eagle design files (.brd, .sch)
-* **/Libraries** - Libraries for use with the <PRODUCT NAME>
 * **/Production** - Production panel files (.brd)
-* **/Software** - Related software for the <PRODUCT NAME>
 
 Documentation
 --------------
@@ -31,11 +27,7 @@ Documentation
 
 Product Versions
 ----------------
-* [LCD-15143] (https://www.sparkfun.com/products/15143)
-
-Version History
----------------
-* [v10](URL for tag specific to this version) -  v10, initial release
+* [LCD-15143](https://www.sparkfun.com/products/15143)
 
 License Information
 -------------------
