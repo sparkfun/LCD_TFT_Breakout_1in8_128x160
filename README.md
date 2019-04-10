@@ -5,7 +5,7 @@ SparkFun LCD TFT Breakout 1.8" 128x160
 
 [*LCD TFT Breakout 1.8" 128x160 (LCD-15143)*](https://www.sparkfun.com/products/15143)
 
-A 128x160 color (18 bit!) TFT LCD display breakout with 4-wire SPI interface and microSD card holder. You can uuse this breakout to easily add visual display/interface capabilities to a project as well as all the storage you might need for multimedia files. 
+A 128x160 color (18 bit!) TFT LCD display breakout with 4-wire SPI interface and microSD card holder. You can use this breakout to easily add visual display/interface capabilities to a project as well as all the storage you might need for multimedia files. 
 
 Repository Contents
 -------------------
@@ -36,7 +36,7 @@ This product is _**open source**_!
 
 Please review the LICENSE.md file for license information. 
 
-If you have any questions or concerns on licensing, please contact techsupport@sparkfun.com.
+If you have any questions or concerns on licensing, please contact our tech support team @ forum.sparkfun.com.
 
 Distributed as-is; no warranty is given.
 
