@@ -1,7 +1,8 @@
 SparkFun LCD TFT Breakout 1.8" 128x160
 ========================================
 
-[LCD TFT Breakout 1.8" 128x160](URL for picture of part)
+[LCD TFT Breakout 1.8" 128x160](https://cdn.sparkfun.com/assets/parts/1/3/5/3/0/15143-SparkFun_LCD_TFT_Breakout_-_1.8in.__128x160_-01.jpg)
+
 
 [*LCD TFT Breakout 1.8" 128x160 (LCD-15143)*](https://www.sparkfun.com/products/15143)
 
@@ -21,7 +22,7 @@ Documentation
 * **[Library (Bottom Level)](https://github.com/sparkfun/HyperDisplay_KWH018ST01_4WSPI_ArduinoLibrary)** - Arduino library for the display module used in this breakout (depends on mid level).
 * **[GitHub Repo](https://github.com/sparkfun/LCD_TFT_Breakout_1in8_128x160)** - Hardware GitHub Repo 
 * **[Hookup Guide](https://learn.sparkfun.com/tutorials/tft-lcd-breakout-18in-128x160-hookup-guide)** - Basic hookup guide for the LCD TFT Breakout 1.8" 128x160.
-<!-- * **[SparkFun Fritzing repo](https://github.com/sparkfun/Fritzing_Parts)** - Fritzing diagrams for SparkFun products. -->
+* **[SparkFun Fritzing repo](https://github.com/sparkfun/Fritzing_Parts)** - Fritzing diagrams for SparkFun products. 
 <!-- * **[SparkFun 3D Model repo](https://github.com/sparkfun/3D_Models)** - 3D models of SparkFun products.  -->
 <!-- * **[SparkFun Graphical Datasheets](https://github.com/sparkfun/Graphical_Datasheets)** -Graphical Datasheets for various SparkFun products. -->
 
@@ -36,7 +37,7 @@ This product is _**open source**_!
 
 Please review the LICENSE.md file for license information. 
 
-If you have any questions or concerns on licensing, please contact our tech support team @ forum.sparkfun.com.
+If you have any questions or concerns on licensing, please contact technical support on our [SparkFun forums](https://forum.sparkfun.com/viewforum.php?f=152)
 
 Distributed as-is; no warranty is given.
 
