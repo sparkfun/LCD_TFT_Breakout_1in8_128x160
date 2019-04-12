@@ -19,7 +19,6 @@ Documentation
 * **[Library (Top Level)](https://github.com/sparkfun/SparkFun_HyperDisplay)** - Arduino library for general control of 2D visual interfaces.
 * **[Library (Mid Level)](https://github.com/sparkfun/HyperDisplay_ILI9163C_ArduinoLibrary)** - Arduino library for all ILI9163 drivers (depends on top level).
 * **[Library (Bottom Level)](https://github.com/sparkfun/HyperDisplay_KWH018ST01_4WSPI_ArduinoLibrary)** - Arduino library for the display module used in this breakout (depends on mid level).
-* **[GitHub Repo](https://github.com/sparkfun/LCD_TFT_Breakout_1in8_128x160)** - Hardware GitHub Repo 
 * **[Hookup Guide](https://learn.sparkfun.com/tutorials/tft-lcd-breakout-18in-128x160-hookup-guide)** - Basic hookup guide for the LCD TFT Breakout 1.8" 128x160.
 * **[SparkFun Fritzing repo](https://github.com/sparkfun/Fritzing_Parts)** - Fritzing diagrams for SparkFun products. 
 <!-- * **[SparkFun 3D Model repo](https://github.com/sparkfun/3D_Models)** - 3D models of SparkFun products.  -->
