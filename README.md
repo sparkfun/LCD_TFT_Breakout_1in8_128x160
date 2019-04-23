@@ -1,7 +1,7 @@
 SparkFun LCD TFT Breakout 1.8" 128x160
 ========================================
 
-![LCD TFT Breakout 1.8" 128x160](https://cdn.sparkfun.com/assets/parts/1/3/5/3/0/15143-SparkFun_LCD_TFT_Breakout_-_1.8in.__128x160_-01.jpg)
+![LCD TFT Breakout 1.8" 128x160](https://cdn.sparkfun.com//assets/parts/1/3/5/3/0/15143-SparkFun_TFT_LCD_Breakout_-_1.8in.__128x160_-a01.jpg)
 
 [*LCD TFT Breakout 1.8" 128x160 (LCD-15143)*](https://www.sparkfun.com/products/15143)
 
